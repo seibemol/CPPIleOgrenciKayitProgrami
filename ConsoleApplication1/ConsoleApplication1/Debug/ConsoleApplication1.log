@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+c:\users\seyma\desktop\algoritma proje\consoleapplication1\consoleapplication1\consoleapplication1.cpp(38): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+c:\users\seyma\desktop\algoritma proje\consoleapplication1\consoleapplication1\consoleapplication1.cpp(75): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+  ConsoleApplication1.vcxproj -> C:\Users\seyma\Desktop\Algoritma Proje\ConsoleApplication1\Debug\ConsoleApplication1.exe
